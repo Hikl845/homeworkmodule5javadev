@@ -1,0 +1,1 @@
+rootProject.name = "homeworkmodule5task2"
